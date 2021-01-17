@@ -1,5 +1,5 @@
 {
-  "name": "simple-react-homeworks",
+  "name": "sigitmple-react-homeworks",
   "homepage": "https://github.com/Stanislavussov/typescript-learning.git",
   "version": "0.1.0",
   "private": true,
@@ -29,7 +29,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "eslintConfig": {
+  "eslintCogitnfig": {
     "extends": "react-app"
   },
   "browserslist": {
