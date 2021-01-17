@@ -19,6 +19,7 @@
     "typescript": "~3.7.2",
     "uuid": "^8.3.2"
   },
+  "homepage": "https://github.com/Stanislavussov/typescript-learning.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
