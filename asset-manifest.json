@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Stanislavussov/typescript-learning/static/css/main.267530b2.chunk.css",
+    "main.js": "/Stanislavussov/typescript-learning/static/js/main.bf7712ea.chunk.js",
+    "main.js.map": "/Stanislavussov/typescript-learning/static/js/main.bf7712ea.chunk.js.map",
+    "runtime-main.js": "/Stanislavussov/typescript-learning/static/js/runtime-main.11ce0021.js",
+    "runtime-main.js.map": "/Stanislavussov/typescript-learning/static/js/runtime-main.11ce0021.js.map",
+    "static/js/2.793250ac.chunk.js": "/Stanislavussov/typescript-learning/static/js/2.793250ac.chunk.js",
+    "static/js/2.793250ac.chunk.js.map": "/Stanislavussov/typescript-learning/static/js/2.793250ac.chunk.js.map",
+    "index.html": "/Stanislavussov/typescript-learning/index.html",
+    "precache-manifest.7b12b3621f3e3360b3b61445961389bf.js": "/Stanislavussov/typescript-learning/precache-manifest.7b12b3621f3e3360b3b61445961389bf.js",
+    "service-worker.js": "/Stanislavussov/typescript-learning/service-worker.js",
+    "static/css/main.267530b2.chunk.css.map": "/Stanislavussov/typescript-learning/static/css/main.267530b2.chunk.css.map",
+    "static/js/2.793250ac.chunk.js.LICENSE.txt": "/Stanislavussov/typescript-learning/static/js/2.793250ac.chunk.js.LICENSE.txt",
+    "static/media/Bars.svg": "/Stanislavussov/typescript-learning/static/media/Bars.cb1e08e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11ce0021.js",
+    "static/js/2.793250ac.chunk.js",
+    "static/css/main.267530b2.chunk.css",
+    "static/js/main.bf7712ea.chunk.js"
+  ]
+}
