@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: #bc3030;
+
+}
+
+li {
+    list-style-type: none;
+}
+
+li * {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-start;
+    grid-gap: 10px;
+}
