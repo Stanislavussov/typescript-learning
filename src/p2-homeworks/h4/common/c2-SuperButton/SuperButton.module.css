@@ -1,7 +1,15 @@
 .default {
-
+    margin-top: 10px;
+    width: 80px;
+    background: red;
+    border: 2px red;
 }
 
 .red {
-    background: red;
+    margin-top: 10px;
+    min-width: 80px;
+    color: white;
+    background: #bc3030;
+    border: 2px #bc3030;
+    cursor: pointer;
 }

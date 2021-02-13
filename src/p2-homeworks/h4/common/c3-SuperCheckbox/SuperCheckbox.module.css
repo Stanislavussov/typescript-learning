@@ -1,7 +1,37 @@
-.checkbox {
+input[type="checkbox"] {
+    display: none;
+}
 
+.fake {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    position: relative;
+}
+
+.fake::before {
+    content: "";
+    position: absolute;
+    display: block;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 7px;
+    height: 7px;
+    background-color: #bc3030;
+    opacity: 0;
+    transition: .2s;
+}
+
+.checkbox:checked + .fake::before  {
+    opacity: 1;
 }
 
 .spanClassName {
+    margin-left: 5px;
 
 }
+
+
+
